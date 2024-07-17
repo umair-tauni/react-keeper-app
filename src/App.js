@@ -6,8 +6,8 @@ function App() {
   return (
     <div>
       <Header />
-      <Footer />
       <Note />
+      <Footer />
     </div>
   );
 }
