@@ -9,6 +9,10 @@ root.render(
   </React.StrictMode>
 );
 
+// -------------Part-2------------//
+//Challenge. Render all the notes inside notes.js as a seperate Note
+//component.
+
 //---------------Part-1--------------//
 
 //1. Create a new React app.
